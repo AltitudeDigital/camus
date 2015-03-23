@@ -9,7 +9,7 @@
   </parent>
 
   <artifactId>camus-schema-registry-avro</artifactId>
-  <name>Camus schema registry Avrot .</name>
+  <name>Camus schema registry Avro.</name>
   <packaging>jar</packaging>
 
   <dependencies>
